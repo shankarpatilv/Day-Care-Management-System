@@ -1,0 +1,9 @@
+../.DS_Store
+.idea
+out
+../build/
+../out/
+build/
+nbproject/private/
+dist
+build
